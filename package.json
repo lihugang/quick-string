@@ -1,5 +1,5 @@
 {
-  "name": "quick-string",
+  "name": "@lihugang/quick-string",
   "version": "1.0.0",
   "description": "quick string builder",
   "main": "dist/index.common.module.js",
