@@ -1,0 +1,28 @@
+{
+  "name": "quick-string",
+  "version": "1.0.0",
+  "description": "quick string builder",
+  "main": "dist/index.common.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quick",
+    "string",
+    "builder",
+    "std::string"
+  ],
+  "author": "lihugang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihugang/quick-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lihugang/quick-string/issues"
+  },
+  "homepage": "https://github.com/lihugang/quick-string#readme",
+  "devDependencies": {
+    "uglify-js": "^3.17.2"
+  }
+}
